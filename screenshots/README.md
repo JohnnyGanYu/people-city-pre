@@ -56,17 +56,19 @@
 | ny24-HUD2025-无家可归点数.png | 一夜点数 125,683 人，露宿 4,673 | NY-E6/E7 | [HUD NY-600 2025](https://files.hudexchange.info/reports/published/CoC_PopSub_CoC_NY-600-2025_NY_2025.pdf) |
 | ny25-DHS-FY26收容人数.png | 收容所月均人数 | NY-E4 | [DHS FY26 Dashboard](https://www.nyc.gov/assets/dhs/downloads/pdf/dashboard/tables/FY26-DHS-Data-Dashboard-Data.pdf) |
 
-## 截不到，需要手动截图
+## Johnny 手动截图（2026-10-10，从浏览器打印的 PDF 转换并裁剪）
 
-nyc.gov 网页版、州长官网和 BLS 拒绝本机访问（Access Denied / Cloudflare），上海公共数据开放平台返回 HTTP 412。
+| 文件 | 内容 | 对应数据 | 来源 |
+|---|---|---|---|
+| sh18-公共数据开放平台首页.png | 11,248 个数据集、56 个部门、90 个应用 | SH-G1/G2 | [上海市公共数据开放平台](https://data.sh.gov.cn/) |
+| ny02-HPD-AMI.png | 2026 年 AMI：三口之家 $152,700 | NY-B1 | [HPD](https://www.nyc.gov/site/hpd/services-and-information/area-median-income.page) |
+| ny04-NYPD-2025犯罪.png | 谋杀 305 起（−20.2%），重大犯罪 121,542 起 | NY-H4a/H4c | [NYPD](https://www.nyc.gov/site/nypd/news/PR001/nypd-safest-year-ever-gun-violence-fewest-shooting-incidents-shooting) |
+| ny06-DCLA-资助.png | 7,430 万美元资助 1,171 家机构，96% 免费或补贴 | NY-F4/F5 | [DCLA](http://gis.nyc.gov/site/dcla/about/pressrelease/PR-2026-2-26-NYC-Department-of-Cultural-Affairs-Announces-74.3-Million-in-Grants-for-1171-Cultural-Organizations-Across-the-City.page) |
+| ny07-预期寿命2024.png | 2024 年预期寿命 83.2 岁（临时数据） | NY-H3a | [市长办公室](https://www.nyc.gov/mayors-office/news/2025/11/mayor-adams-announces-administration-s-signature-health-initiati) |
+| ny08-OpenData介绍.png | 开放数据法要求"默认公开"，各部门设开放数据协调员 | NY-G2 | [NYC Open Data](https://opendata.cityofnewyork.us/) |
+| ny10-州长-地铁客流2025.png | 2025 年地铁近 13 亿人次，为疫情前 85% | NY-D2 | [州长办公室](https://www.governor.ny.gov/news/governor-hochul-highlights-record-breaking-year-performance-and-ridership-mta-2025) |
+| ny14-OpenData按部门浏览.png | 按部门浏览数据集（页面不显示总数） | NY-G1 | NYC Open Data |
 
-| 页面 | 截哪部分 | 用于 |
-|---|---|---|
-| [上海公共数据开放平台首页](https://data.sh.gov.cn/) | 首页的数据集数、开放机构数 | 透明 |
-| [NYC Open Data 门户](https://opendata.cityofnewyork.us/) | 首页或 Browse all datasets 的数据集总数 | 透明 |
-| [NYC 开放数据法](https://opendata.cityofnewyork.us/open-data-law/) | Local Law 11 of 2012 那一段 | 透明 |
-| [NYPD 2025 犯罪统计](https://www.nyc.gov/site/nypd/news/PR001/nypd-safest-year-ever-gun-violence-fewest-shooting-incidents-shooting) | 谋杀 305 起那一段 | 治安 |
-| [NYC 2024 预期寿命](https://www.nyc.gov/mayors-office/news/2025/11/mayor-adams-announces-administration-s-signature-health-initiati) | 83.2 岁那一段 | 医疗 |
-| [DCLA 资助公告](http://gis.nyc.gov/site/dcla/about/pressrelease/PR-2026-2-26-NYC-Department-of-Cultural-Affairs-Announces-74.3-Million-in-Grants-for-1171-Cultural-Organizations-Across-the-City.page) | 1,171 家机构、96% 免费或补贴 | 文化 |
-| [州长：MTA 2025 客流](https://www.governor.ny.gov/news/governor-hochul-highlights-record-breaking-year-performance-and-ridership-mta-2025) | 近 13 亿人次 | 行 |
-| [HPD AMI 表](https://www.nyc.gov/site/hpd/services-and-information/area-median-income.page) | 2026 年 AMI 表（可选） | 收入背景 |
+## 仍缺
+
+- NYC Open Data 数据集总数：按部门浏览页不显示总数，需要在 Browse all datasets 页搜索结果顶部看"N results"。可选，不影响结论。
