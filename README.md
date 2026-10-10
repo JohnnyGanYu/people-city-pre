@@ -18,7 +18,8 @@
 |---|---|
 | `data/data-table.md` | 数据总表和计分判断（看这个就够） |
 | `data/gaps.md` | 缺口清单，需要大家帮忙找的数据 |
-| `data/shanghai-*.md`、`data/newyork-*.md` | 原始核实记录，每个数字附官方 URL；`shanghai-3.md` 是厕所和公共服务补查 |
+| `data/shanghai-*.md`、`data/newyork-*.md` | 原始核实记录，每个数字附官方 URL；`shanghai-3.md` 是厕所和公共服务补查；`shanghai-4.md` 补充公厕数量口径、类型与19个点位 |
+| `data/shanghai-toilet-tasks.md` | 上海公厕资料的认领与核对任务（接入目标：`added-data`） |
 | `screenshots/` | 官方页面截图（配图用） |
 | `script/讲稿.md` | 讲稿全文，三块各约 5 分钟 |
 
