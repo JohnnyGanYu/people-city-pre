@@ -68,6 +68,7 @@
 | ny08-OpenData介绍.png | 开放数据法要求"默认公开"，各部门设开放数据协调员 | NY-G2 | [NYC Open Data](https://opendata.cityofnewyork.us/) |
 | ny10-州长-地铁客流2025.png | 2025 年地铁近 13 亿人次，为疫情前 85% | NY-D2 | [州长办公室](https://www.governor.ny.gov/news/governor-hochul-highlights-record-breaking-year-performance-and-ridership-mta-2025) |
 | ny14-OpenData按部门浏览.png | 按部门浏览数据集（页面不显示总数） | NY-G1 | NYC Open Data |
+| sh31-开放平台-公共厕所接口.png | "城市设施-公共厕所"接口：8,325 条，有条件开放，来源市绿化市容局 | SH-T1 | 上海市公共数据开放平台 |
 
 ## 仍缺
 
