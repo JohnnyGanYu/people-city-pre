@@ -34,6 +34,7 @@
 | sh27-公报-为老服务.png | 为老服务中心 557 家、助餐场所 2,498 个 | SH-P5 | 2025 年统计公报 |
 | sh28-规划资源局-生活圈居民参与.png | 泰山人民坊：12 场座谈会、3,826 份问卷 | SH-L1/L3 | [市规划资源局 2025-12-18](https://ghzyj.sh.gov.cn/gzdt/20251224/f5b8e34f5c834200910639b27717dfdf.html) |
 | sh29-规划资源局-1600个生活圈.png | 1,600 个社区生活圈基本单元（转载新民晚报） | SH-L2 | [市规划资源局转载](https://ghzyj.sh.gov.cn/gzdt/20250527/b3c052d03b8943629a5c4f1a1450d198.html) |
+| sh30-Numbeo上海.png | 租金、税后工资、样本量 1,536 条（非官方） | 3.7 节 | [Numbeo](https://www.numbeo.com/cost-of-living/in/Shanghai) |
 
 ## 纽约
 
@@ -46,6 +47,7 @@
 | ny11-DOE毕业率.png | 毕业率页入口（81.2% 在页内 PDF 里，做 PPT 时按需重截） | NY-H5a | [NYC Public Schools](https://infohub.nyced.org/reports/academics/graduation-results) |
 | ny12-NYPL网点.png | NYPL 92 处网点 | NY-F6a | [NYPL](https://www.nypl.org/about/locations) |
 | ny13-Wise纽约.png | Wise 纽约生活成本（非官方） | 3.5 节 | [Wise](https://wise.com/zh-cn/cost-of-living/united-states/new-york-ny) |
+| ny30-Numbeo纽约.png | 租金、税后工资（非官方） | 3.7 节 | [Numbeo](https://www.numbeo.com/cost-of-living/in/New-York) |
 | ny20-RGB简报-租金负担.png | 51.6% 租房户租金超过收入 30%，租金中位数 $1,811 | NY-C2–C4 | [RGB 2026 简报 第 4 页](https://rentguidelinesboard.cityofnewyork.us/wp-content/uploads/2026/04/2026-IA-Presentation.pdf) |
 | ny26-RGB简报-贫困率.png | 贫困率 | NY-E1/E2 | 同上，第 27 页 |
 | ny21-HVS2023-租房户.png | 租房户 232.4 万 | NY-C1 | [HPD 2023 HVS 第 13 页](https://www.nyc.gov/assets/hpd/downloads/pdfs/about/2023%20NYCHVS%20Selected%20Initial%20Findings.pdf) |
