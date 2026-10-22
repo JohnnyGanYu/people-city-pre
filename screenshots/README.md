@@ -56,7 +56,7 @@
 | ny24-HUD2025-无家可归点数.png | 一夜点数 125,683 人，露宿 4,673 | NY-E6/E7 | [HUD NY-600 2025](https://files.hudexchange.info/reports/published/CoC_PopSub_CoC_NY-600-2025_NY_2025.pdf) |
 | ny25-DHS-FY26收容人数.png | 收容所月均人数 | NY-E4 | [DHS FY26 Dashboard](https://www.nyc.gov/assets/dhs/downloads/pdf/dashboard/tables/FY26-DHS-Data-Dashboard-Data.pdf) |
 
-## Johnny 手动截图（2026-10-10，从浏览器打印的 PDF 转换并裁剪）
+## 组员手动截图（2026-10-10，从浏览器打印的 PDF 转换并裁剪）
 
 | 文件 | 内容 | 对应数据 | 来源 |
 |---|---|---|---|
